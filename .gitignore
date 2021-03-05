@@ -1,2 +1,4 @@
 /venv
 *.pyc
+python_course/persons.csv
+.idea

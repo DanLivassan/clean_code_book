@@ -7,6 +7,7 @@ Switch statements should be avoid or buried in one class
 (Ps.: Python have no switch statement but its like a if sequence)
 """
 
+
 class Employee(ABC):
 
     def __init__(self, name: str, employee_type: int, hour: float):
