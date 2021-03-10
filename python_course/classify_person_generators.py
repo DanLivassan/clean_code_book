@@ -83,6 +83,8 @@ def printout():
     print([candidate.name for candidate in generate_classified_persons()])
 
 
-persons = PersonIterator()
-print([person for person in persons])
+#persons = PersonIterator()
+#print([person for person in persons])
 
+if __name__=="__main__":
+    print("oi")
